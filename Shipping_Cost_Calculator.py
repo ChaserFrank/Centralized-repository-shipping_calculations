@@ -1,4 +1,3 @@
-# Here is a new update by ChaserFrank
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
